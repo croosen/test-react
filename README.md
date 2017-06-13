@@ -16,5 +16,6 @@ Testing with React
 - Added new test to fetch and display data from json
 
 #### Install
-- For now, follow the steps in the above tutorial
+- For now, get these files
+- Follow the steps in the above tutorial for the commands used
 - I will be making a makefile soon :-)

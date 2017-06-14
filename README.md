@@ -16,6 +16,9 @@ Testing with React
 - Added new test to fetch and display data from json
 
 #### Install
-- For now, get these files
-- Follow the steps in the above tutorial for the commands used
-- I will be making a makefile soon :-)
+- Checkout this repository in a folder
+- Install Babel globally (`brew install babel` or `npm install -g babel` `npm install -g babel-cli`)
+- Run the Makefile
+- As set in the Webpack config file, the result can be viewed at http://localhost:8080/
+
+# Happy testing :-)
